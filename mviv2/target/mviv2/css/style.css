@@ -1,0 +1,70 @@
+body {
+    font-family: Verdana,Arial;
+    margin: 32px;
+    background-image: url(../img/avion.png);
+}
+
+a {
+    padding-top: 0.1em;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+span.green {
+    color:green;
+    font-weight: bold;
+}
+
+a {
+    display: block;
+}
+
+div {
+    display: block;
+    margin: 1em 0;
+}
+
+form {
+    margin: 1em 0;
+}
+
+input {
+    display: block;
+    padding: 0.5em;
+    width: 150px;
+}
+
+input[type=text]{
+    width: 250px;
+}
+
+input[type=radio] {
+    margin: 1em 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    margin: 1em 0;
+    padding: 0.5em;
+    display: inline-block;
+}
+
+table {
+    border: 1px solid black;
+}
+
+tr:nth-child(odd){
+    background-color: beige;
+}
+
+td {
+    border: none;
+    padding: 0 2em;
+
+}
+
+tr {
+        margin: 0 2em;
+}

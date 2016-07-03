@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disponibilidad>
+  <vuelo id="3">
+    <linea>Alitalia</linea>
+    <origen>Turquia</origen>
+    <destino>Francia</destino>
+    <fecha>10/10/2016</fecha>
+    <hora>2:30</hora>
+    <capacidad>297</capacidad>
+    <precio>300000</precio>
+  </vuelo>
+  <vuelo id="2">
+    <linea>American Airlines</linea>
+    <origen>Venezuela</origen>
+    <destino>Estados Unidos</destino>
+    <fecha>26/12/2015</fecha>
+    <hora>7:05</hora>
+    <capacidad>295</capacidad>
+    <precio>200000</precio>
+  </vuelo>
+  <vuelo id="1">
+    <linea>id</linea>
+    <origen>Venezuela</origen>
+    <destino>Cancun</destino>
+    <fecha>10/10/2016</fecha>
+    <hora>9:05</hora>
+    <capacidad>95</capacidad>
+    <precio>100000</precio>
+  </vuelo>
+</disponibilidad>

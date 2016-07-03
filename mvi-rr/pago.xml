@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagos>
+  <pago clave="1">
+    <reserva clave="1" />
+  </pago>
+</pagos>
